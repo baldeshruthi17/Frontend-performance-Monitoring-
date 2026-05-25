@@ -1,0 +1,6 @@
+{
+  "name": "Frontend Performance Monitoring Agent",
+  "description": "AI-powered real-time frontend performance monitoring dashboard. Tracks core metrics, generates smart root cause insights and alert resolutions with Gemini, and visualizes system health with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
